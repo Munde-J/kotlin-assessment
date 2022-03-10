@@ -2,8 +2,8 @@ import kotlin.math.abs
 
 fun main(){
 
-var remain=(7,3)
-    println
+var remain=x(7,3)
+    println()
     //var remainder
 }
 fun remain(a:Int,b:Int){
@@ -17,7 +17,7 @@ fun place(name:String){
     var stmt3=school[6]
     var stmt4=school[7]
 var stmt5=("stmt;stmt2;stmt3;stmt4")
-println()
+println(stmt5)
 
 }
 fun name(a:String){
